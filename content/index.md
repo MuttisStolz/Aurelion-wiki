@@ -1,2 +1,2 @@
 
-[[Welt| Die ganze Welt]]
+Willkommen auf der Wiki von [[Aurelion]].
