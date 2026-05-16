@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "github.com/MuttisStolz/Aurelion-wiki",
+    baseUrl: "muttisstolz.github.io/Aurelion-wiki/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
