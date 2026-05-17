@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Tabelle
+    filters:
+      and:
+        - Typ == "Ort"
+    order:
+      - file.name
