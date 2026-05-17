@@ -10,12 +10,13 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Aurelion",
     pageTitleSuffix: "Chroniken einer neuen Ära",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
+    
     baseUrl: "muttisstolz.github.io/Aurelion-wiki/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
