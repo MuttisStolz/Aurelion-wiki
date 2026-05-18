@@ -1,14 +1,14 @@
 
-Hier findet ihr alle Informationen zum [[Team]]
+Hier findet ihr alle Informationen zum den einzelnen [[Team|Mitgliedern]].
 
-# Quests
+# Questsn.
 
 
-Aktuelle Quest:
+Aktuelle Quest: [[001 Transport nach Kreshmoor]]
 Alle Quests:
 
 # Sessions
 
-Letze Sessions:
+Letze Sessions: [[Session 001|Last]]
 Alle Sessions:
 

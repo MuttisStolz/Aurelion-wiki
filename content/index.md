@@ -1,5 +1,5 @@
 
-Willkommen auf der Wiki von [[Aurelion]].
+ **Willkommen auf der Wiki von [[Aurelion]].**
 
 Unter dem Punkt [[Welt]] findet ihr alles zur Lore.
 

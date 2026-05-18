@@ -1,5 +1,6 @@
 ---
 Typ: Session
+Date: 15.05.2026
 ---
 
 - In einer [[Hedonisten]] Taverne (Name unbekannt) in den [[Westvael]] befindet sich der Auftraggeber.
