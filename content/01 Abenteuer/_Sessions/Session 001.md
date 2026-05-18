@@ -2,20 +2,19 @@
 Typ: Session
 ---
 
-
-- In einer Hudonisten Taverne (Name unbekannt) in den Westwelten befindet sich der Auftraggeber.
+- In einer [[Hedonisten]] Taverne (Name unbekannt) in den [[Westvael]] befindet sich der Auftraggeber.
 - Jeder kommt Spieler kommt einzeln in die Taverne rein
 - Martha, Björn und Matsch-Rudi gehen direkt zu ihm.
-- Sola geht erst zum Tresen und beklaut erfolgreich ein Hudonisten bevor sie zur Gruppe stößt.
-- Quest [[001 Transport nach Crashmoor|Transport nach Crashmoor]] wurde angenommen.
+- Sola geht erst zum Tresen und beklaut erfolgreich ein [[Hedonisten]] names [[Lucan Ducan Maximillian de Sait]] bevor sie zur Gruppe stößt.
+- Quest [[001 Transport nach Kreshmoor|Transport nach Kreshmoor]] wurde angenommen.
 - Vorstellungsrunde
-	1. Björn
-	2. Marta
-	3. Matsch-Rudi
-	4. Sola
+	1.  [[Björn]]
+	2. [[Mata]]
+	3. [[Matsch Rudi]]
+	4. [[Sola]]
 - Truppe macht sich auf den weg zum nächsten Bahnhof, bis auf Sola sie beklaut nochmals erfolgreich den Typen am Tresen.
 - Deshalb muss sie erstmal die Truppe wieder suchen
-- Anschließend fährt die Truppe mit der Straßenbahn (Name) nach  Silktrob.
+- Anschließend fährt die Truppe mit der Straßenbahn (Name) nach  [[Siltrow]].
 - In der Bahn sammelt Björn speichel von Matsch Rudi um Sprengkugeln zu bauen.
 ---
 
@@ -25,16 +24,16 @@ Typ: Session
 
 |Disziplin | Spieler |Gegner    |Ergebnis|
 | --- | --- |--- |--- |
-|   Münzwurf  |  Marta  | Schleuderarm | Sieg |
-|   Armdrücken |  Sola  | Armstrong| Sieg |
-|   Darts  |  Björn | Sniper  | Sieg |
-|   Münzwurf  |  Matsch-Rudi | Fassbot  | Unentschieden |
+|   [[Kneipensport#Münzwurf \| Münzwurf]]  |  [[Mata]]  | [[Schleuderarm]] | Sieg |
+|   [[Kneipensport#Armdrücken\| Armdrücken]] |  [[Sola]]  | [[Armstrong]]| Sieg |
+|   [[Kneipensport#Dart\| Dart]]  |  [[Björn]] | [[Sniper]]  | Sieg |
+|   [[Kneipensport#Zechen\| Zechen]]  |  [[Matsch Rudi]] | [[Eisenbauch]]  | Unentschieden |
 
 	
 - Anschließend wird ausgiebig gefeiert 
 - Marta und Sola erhalten weitere Informationen zu [[Söldner#Crows & Geer|Crows & Geers]]
 - Matsch-Rudi trinkt übern durst und wird von Marta ins Zimmer getragen.
-- Björn macht Skizzen von den Schimmerpunk Auge und studiert es.
+- Björn macht Skizzen von [[Sniper]]s Auge und studiert es.
 - Alle gehen zu Bett.
 
 ---

@@ -1,6 +1,21 @@
-Welt Text
+
+Im Zentrum des Kontinents befindet sich die Hauptstadt [[Aurelion]]
 
 
+## Völker
+
+[[Floravi]]
+[[Hedonisten]]
+[[Kherai]]
+[[Krachzwerge]]
+[[Morgho]]
+[[Pestmagier]]
+[[Schimmerpunks]]
+[[Vektari]]
+
+## Regionen
+
+[[Sumpfherz]]
 
 #### Währung
 
