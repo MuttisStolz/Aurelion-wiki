@@ -47,7 +47,7 @@ Date: 15.05.2026
 - weiter im Süden ein Ring gefunden der zur Hand passt
 - Betreten den Wald wo wir ein [[Morgho]]-Dorf das gerade eine [[Morgho#Schlammtaufe|Schlammtaufe]] macht finden und beobachten diese Zeremonie. 
 - Nachdem die Zeremonie vorbei war und die Einwohner zum feiern in ein großes Haus gingen schlichen wir uns näher ans Dorf.
-- Vor dem Haus fanden wir ein [[Morgho]] namens  [[Varesh]] der betrübt darüber war keine [[Schlammtaufe]] erhalten zu haben da er beim Kampf gegen außenstehende weggelaufen sei.
+- Vor dem Haus fanden wir ein [[Morgho]] namens  [[Varesh]] der betrübt darüber war keine [[Morgho#Schlammtaufe|Schlammtaufe]] erhalten zu haben da er beim Kampf gegen außenstehende weggelaufen sei.
 - [[Varesh]] kann und ein Weg zeigen wo wir die [[Crows & Gears]] Söldner finden können möchte aber mit kommen um seine Ehre wieder herzustellen.
 - [[Björn]] gefällt das gar nicht das ein Kind mit in die Schlacht kommen soll, wird aber überredet / überstimmt unter der Prämisse das [[Varesh]] nicht mitkämpft
 - Söldner Camp gefunden und vorbereitung zum Kampf
@@ -73,10 +73,10 @@ Date: 15.05.2026
 - Nachdem Björn ihn am Boden hielt hat Matsch Rudi in den Kopf abgetreten.
 - Blaues Blut floss aus ihm heraus.
 - [[Varesh]] hat dies verstört und kehrte zu sein Dorf alleine zurück
-- Nach dem Kampf wurde die Milchkanne geöffnet und leer gefunden
+- Nach dem Kampf wurde die [[Proben-Kapsel „Aegis-9“|Milchkanne]]  geöffnet und leer gefunden
 - Ein Injektionsapparat wurde gefunden
 - [[Björn]] hat Proben des Blutes mitgenommen
-- Milchkanne wurde mitgenommen
+- [[Proben-Kapsel „Aegis-9“|Milchkanne]] wurde mitgenommen
 - Betäubter Pestmagier 1 und der gefangener wurden mitgenommen
 - Auf den Weg zur [[Algenakademie]] wurde Pestmagier 1 verhört
 	- Sola hat seine Hand verätzt
