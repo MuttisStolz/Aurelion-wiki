@@ -9,7 +9,7 @@
 - 2 W10 Würfel für ein Wurf.
 - Probe entscheidet ob man trifft oder daneben wirft
 
-## Dart
+## Dart, Messer oder Axt werfen
 
 - Best of 3 Modus
 - Jede Runde wird nur mit einen Einzelnen Pfeil geworfen.
@@ -30,4 +30,21 @@
 - Best of 1 Modus
 -  2 W10 Würfel für ein Wurf.
 - Der bessere Wurf entscheidet wer gewonnen hat
+
+## Weitere Mögliche Spiele 
+
+- Bierkrugstemmen
+- Kartenpokern
+- Würfelspiele
+- Fassrollen
+- Rattenrennen
+- Alchemisten-Cocktailmixen
+- Wettessen
+- Ohrfeigen / Slaps
+- Kegeln
+- Trinkroulette mit unbekannten Tränken
+- Karaoke
+- Beleidigungsduell (Rap-Battle)
+- Wettstarren
+- Pub Quiz 
 

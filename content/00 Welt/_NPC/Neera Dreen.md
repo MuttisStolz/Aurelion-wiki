@@ -1,0 +1,5 @@
+---
+Typ: NPC
+Volk: Morgho
+---
+

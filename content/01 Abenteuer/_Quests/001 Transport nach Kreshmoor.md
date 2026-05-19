@@ -1,31 +1,27 @@
 ---
 Typ: Quest
+Status: Laufend
 ---
 
 
 
-Auftraggeber: 
+**Auftraggeber: **
+
 [[Staats-Akademie ]]
 
-Auftrag:
+**Auftrag:**
 
 Sicherstellen und zurück bringen des Transportguts
-zur Frau [[Nira Drees]] in der [[Algenakademie]].
+zur Frau [[Neera Dreen]] in der [[Algenakademie]].
 
-Erhaltene Informationen:
+**Erhaltene Informationen:**
 
-Ein Transporter ist vor einer Woche ohne Geleitschutz nach [[Kreshmoor]].
-Wurde um 20Uhr in [[Siltrow]] überfallen
-Eine 10 sek. Nachricht wurde noch abgesendet.
-
-Es ist bekannt das die [[Söldner]] Truppe [[Crows & Geers]] dort sein unswesen treibt.
-
-
-
-Inhalt des Transporters war ein Transportbehälter 
-	
-	
- Eine [[Transportbehälter]] mit drehverschluss "Milchkanne" mit unbekannten Inhalt der war transportiert worden
+> Ein Transporter ist vor einer Woche ohne Geleitschutz nach [[Kreshmoor]] gereist.
+> Wurde um 20Uhr in [[Siltrow]] überfallen
+> Eine 10 sek. Nachricht wurde noch abgesendet.
+> Es ist bekannt das die Söldnertruppe [[Crows & Gears]] dort sein Unwesen treibt.
+> Inhalt des Transporters war ein Transportbehälter 
+> Eine [[Proben-Kapsel „Aegis-9“|Proben-Kapsel]]  "Milchkanne" mit unbekannten Inhalt der war transportiert worden
 
 
 

@@ -1,0 +1,4 @@
+---
+Typ: Held
+Volk: Krachzwerg
+---
