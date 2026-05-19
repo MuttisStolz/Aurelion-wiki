@@ -25,15 +25,15 @@ Date: 15.05.2026
 
 |Disziplin | Spieler |Gegner    |Ergebnis|
 | --- | --- |--- |--- |
-|   [[Kneipensport#Münzwurf]]  |  [[Mata]]  | [[Schleuderarm]] | Sieg |
-|   [[Kneipensport#Armdrücken]] |  [[Sola]]  | [[Armstrong]]| Sieg |
-|   [[Kneipensport#Dart]]  |  [[Björn]] | [[Sniper]]  | Sieg |
-|   [[Kneipensport#Zechen]]  |  [[Matsch Rudi]] | [[Eisenbauch]]  | Unentschieden |
+|   [[Kneipensport#Münzwurf\|Münzwurf]]  |  [[Mata]]  | [[Schleuderarm]] | Sieg |
+|   [[Kneipensport#Armdrücken\|Armdrücken]] |  [[Sola]]  | [[Armstrong]]| Sieg |
+|   [[Kneipensport#Dart\|Dart]]  |  [[Björn]] | [[Sniper]]  | Sieg |
+|   [[Kneipensport#Zechen\|Zechen]]  |  [[Matsch Rudi]] | [[Eisenbauch]]  | Unentschieden |
 
 	
 - Anschließend wird ausgiebig gefeiert 
 - Marta und Sola erhalten weitere Informationen zu [[Crows & Gears]]
-- Matsch-Rudi trinkt übern Durst und wird von Marta ins Zimmer getragen.
+- Matsch-Rudi zu viel [[Spritrotze]] getrunken und wird von Marta ins Zimmer getragen.
 - Björn macht Skizzen von [[Sniper]]s Auge und studiert es.
 - Alle gehen zu Bett.
 
